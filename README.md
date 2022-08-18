@@ -1,3 +1,3 @@
 # demo
 
-cephars is a genius
+cephars is a genius!
